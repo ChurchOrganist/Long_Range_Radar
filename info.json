@@ -1,12 +1,11 @@
 {
   "name": "015AdvancedRadar",
-  "version": "0.15.0",
+  "version": "0.15.1",
   "title": "Advanced Radar for Factorio 0.15",
   "author": "Michael Cowgill",
-  "contact": "",
+  "contact": "jmcowgill@gmail.com",
   "homepage": "",
-  "description": "Port to 0.15 of Malcolm Cooks' AdvancedRadar mod.
-  Advanced radar with greater range, speed, and power consumption.",
+  "description": "Port to 0.15 of Malcolm Cooks' AdvancedRadar mod. Advanced radar with greater range, speed, and power consumption.",
   "dependencies": ["base >= 0.15"],
   "factorio_version": "0.15"
 }

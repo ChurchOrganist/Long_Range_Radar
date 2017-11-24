@@ -1,7 +1,7 @@
-015AdvancedRadar 0.15.0 by Michael Cowgill (ChurchOrganist)
+015AdvancedRadar 0.15.1 by Michael Cowgill (ChurchOrganist)
 
 This is simply a port of Malcolm Cooks' AdvancedRadar mod for Factorio 0.15.
-Malcolm's code is unchanged apart from some minor alterations to the locale files for compatibility with Factorio's 0.15.x format.
+Malcolm's code is almost unchanged apart from some minor alterations to the locale files for compatibility with Factorio's 0.15.x format, and a couple of alterations to the entity.lua file to enable the blue shading in the minimap.
 
 This has been tested and appears to be working OK.
 

@@ -1,11 +1,11 @@
-015AdvancedRadar  0.15.0 is released under the MIT license.
+015AdvancedRadar 0.15.1 is released under the MIT license.
 
 Informally, this means you can 
 do basically whatever with it you like, as long as you leave this file intact.
 
 The full legalese is below.
 
-015AdvancedRadar 0.15.0 is Copyright © 2017 Michael Cowgill (Church Organist), Malcolm Cooks and others.
+015AdvancedRadar 0.15.1 is Copyright © 2017 Michael Cowgill (Church Organist), Malcolm Cooks and others.
 
 Acknowledgements
 Thank you to Malcolm Cooks who programmed the original AdvancedRadar mod.

@@ -1,18 +1,21 @@
 data:extend({
-
-  {
+   {
     type = "radar",
     name = "advanced-radar",
     icon = "__base__/graphics/icons/radar.png",
     flags = {"placeable-player", "player-creation"},
     minable = {hardness = 0.2, mining_time = 0.5, result = "advanced-radar"},
-    max_health = 150,
+    max_health = 250,
     corpse = "big-remnants",
     resistances =
     {
       {
         type = "fire",
         percent = 70
+      },
+      {
+        type = "impact",
+        percent = 30
       }
     },
     collision_box = {{-1.4, -1.4}, {1.4, 1.4}},
@@ -36,7 +39,7 @@ data:extend({
       apply_projection = false,
       direction_count = 64,
       line_length = 8,
-      shift = {0.875, -0.34375}
+      shift = util.by_pixel(27.5,-12.5)
     },
     vehicle_impact_sound =  { filename = "__base__/sound/car-metal-impact.ogg", volume = 0.65 },
     working_sound =
@@ -47,7 +50,8 @@ data:extend({
         }
       },
       apparent_volume = 2,
-    }
+    },
+    radius_minimap_visualisation_color = { r = 0.059, g = 0.092, b = 0.235, a = 0.275 },
   }
   
   })
