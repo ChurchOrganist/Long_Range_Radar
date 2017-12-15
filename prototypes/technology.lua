@@ -3,7 +3,7 @@ data:extend({
 {
     type = "technology",
     name = "advanced-radar-tech",
-    icon = "__015AdvancedRadar__/graphics/technology_icon_advanced_radar.png",
+    icon = "__Advanced_Radar__/graphics/technology_icon_advanced_radar.png",
 	icon_size = 128,
     effects =
     {
