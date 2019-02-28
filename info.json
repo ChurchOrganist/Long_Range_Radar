@@ -1,11 +1,11 @@
 {
-  "name": "Advanced_Radar",
-  "version": "0.16.2",
-  "title": "Advanced Radar for Factorio 0.16",
+  "name": "Long_Range_Radar",
+  "version": "0.17.5",
+  "title": "Long Range Radar for Factorio 0.17",
   "author": "Michael Cowgill",
   "contact": "jmcowgill@gmail.com",
   "homepage": "",
-  "description": "Port to 0.16 of Malcolm Cooks' AdvancedRadar mod. Advanced radar with greater range, speed, and power consumption.",
-  "dependencies": ["base >= 0.16"],
-  "factorio_version": "0.16"
+  "description": "Port to 0.17 of Malcolm Cooks' AdvancedRadar mod. Radar with greater range, speed, and power consumption.",
+  "dependencies": ["base >= 0.17"],
+  "factorio_version": "0.17"
 }
