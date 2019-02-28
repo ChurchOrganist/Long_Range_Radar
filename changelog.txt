@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.17.5
+Date: 28. 02. 2019
+  Fixes:
+    - Fix unknown key issue in Technology Tree
+  Known Issues:
+    - Japanese locale has not yet been properly translated.
+---------------------------------------------------------------------------------------------------
 Version: 0.17.4
 Date: 28. 02. 2019
   Major Features:
