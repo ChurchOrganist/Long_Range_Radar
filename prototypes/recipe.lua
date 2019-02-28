@@ -2,7 +2,7 @@ data:extend({
 
 {
     type = "recipe",
-    name = "advanced-radar",
+    name = "long-range-radar",
 	enabled = false,
 	energy_required = 5,
     ingredients =
@@ -11,7 +11,7 @@ data:extend({
       {"iron-gear-wheel", 5},
       {"iron-plate", 10}
     },
-    result = "advanced-radar",
+    result = "long-range-radar",
     requester_paste_multiplier = 4
   }
   

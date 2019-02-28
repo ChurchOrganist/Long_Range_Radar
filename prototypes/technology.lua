@@ -2,23 +2,24 @@ data:extend({
 
 {
     type = "technology",
-    name = "advanced-radar-tech",
-    icon = "__Advanced_Radar__/graphics/technology_icon_advanced_radar.png",
+    name = "long-range-radar-tech",
+    icon = "__Long_Range_Radar__/graphics/technology_icon_advanced_radar.png",
 	icon_size = 128,
     effects =
     {
       {
         type = "unlock-recipe",
-        recipe = "advanced-radar"
+        recipe = "long-range-radar"
       }
     },
-	prerequisites = {"military-2", "electronics"},
+	prerequisites = {"military-2", "electronics","railway"},
     unit =
     {
-      count = 50,
+      count = 100,
       ingredients = {
-	  {"science-pack-1", 1},
-	  {"science-pack-2", 1}
+	  {"automation-science-pack", 1},
+	  {"logistic-science-pack", 1},
+	  {"military-science-pack",1}
 	  },
       time = 30
     },

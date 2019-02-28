@@ -1,15 +1,15 @@
-Advanced_Radar 0.16.2 is released under the MIT license.
+Long Range Radar 0.17.4 is released under the MIT license.
 
 Informally, this means you can 
 do basically whatever with it you like, as long as you leave this file intact.
 
 The full legalese is below.
 
-Advanced_Radar 0.16.2 is Copyright © 2017 Michael Cowgill (Church Organist), Malcolm Cooks and others.
+Long Range Radar 0.17.4 is Copyright © 2017 Michael Cowgill (Church Organist), Malcolm Cooks and others.
 
 Acknowledgements
 Thank you to Malcolm Cooks who programmed the original AdvancedRadar mod.
-This port for Factorio 0.16.x is completely unchanged apart from minor stuff to make it compatible,
+This port for Factorio 0.17.x is completely unchanged apart from minor stuff to make it compatible (see changelog for details),
 and addition of a couple of lines of code which enables the blue placing overlay in the map introduced in Factorio 0.15.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of

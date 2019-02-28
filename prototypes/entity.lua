@@ -1,11 +1,11 @@
 data:extend({
    {
     type = "radar",
-    name = "advanced-radar",
+    name = "long-range-radar",
     icon = "__base__/graphics/icons/radar.png",
 	icon_size = 32,
     flags = {"placeable-player", "player-creation"},
-    minable = {hardness = 0.2, mining_time = 0.5, result = "advanced-radar"},
+    minable = {hardness = 0.2, mining_time = 0.5, result = "long-range-radar"},
     max_health = 250,
     corpse = "big-remnants",
     resistances =
