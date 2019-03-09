@@ -1,7 +1,59 @@
-Advanced_Radar for Factorio 0.16 Changelog
-
-15/12/2017   0.16.2   Fix sprite definitions
-             0.16.1   Fix icon size error
-             0.16.0   Initial Factorio 0.16 conversion attempt.
-24/11/2017   0.15.1   Addition of code to enable blue positioning aid overlay in minimap
-27/07/2017   0.15.0   Initial port of Malcolm Cook's mod to Factorio version 0.15
+---------------------------------------------------------------------------------------------------
+Version: 0.17.6
+Date: 09. 03. 2019
+  Fixes:
+    - Update Japanese locale
+---------------------------------------------------------------------------------------------------
+Version: 0.17.5
+Date: 28. 02. 2019
+  Fixes:
+    - Fix unknown key issue in Technology Tree
+  Known Issues:
+    - Japanese locale has not yet been properly translated.
+---------------------------------------------------------------------------------------------------
+Version: 0.17.4
+Date: 28. 02. 2019
+  Major Features:
+    - Name changed from Advanced Radar to Long Range Radar which better describes what it does.
+    - Research requirements altered to require Railway in addition to Military 2 and Electronics as during recent play it was felt that it was available too early in the game otherwise.
+    - Research cost doubled to 100 of each Automation, Logistic and Military science packs for a better balance.
+  Additions:
+    - Thumbnail image for mod information
+---------------------------------------------------------------------------------------------------
+Version: 0.17.3
+Date: 27. 02. 2019
+  Fixes:
+    - Fix changed science pack names in technology.lua
+---------------------------------------------------------------------------------------------------
+Version: 0.17.2
+  Fixes:
+    - Remove "goes to quickbar" flag which is now redundant
+---------------------------------------------------------------------------------------------------
+Version: 0.17.1
+Date: 27. 02. 2019
+  Fixes:
+    - Fix spaces in filename issue
+---------------------------------------------------------------------------------------------------
+Version: 0.17.0
+Date: 27. 02. 2019
+  Added:
+    - Initial Factorio 0.17 Version
+  Removed:
+    - Factorio 0.16 support. Please use version 0.16.2 for Factorio 0.16
+---------------------------------------------------------------------------------------------------
+Version: 0.16.2
+Date: 15. 12. 2017
+  Fixes:
+    - Fix sprite definitions
+    - Fix icon size error
+    - Initial Factorio 0.16 conversion attempt.
+---------------------------------------------------------------------------------------------------
+Version: 0.15.1
+Date: 24. 11. 2017
+  Added:
+    - Addition of code to enable blue positioning aid overlay in minimap
+---------------------------------------------------------------------------------------------------
+Version: 0.15.0
+Date: 27. 07. 2017
+  Major Features:
+    - Initial port of Malcolm Cook's mod to Factorio version 0.15
