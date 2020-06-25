@@ -1,5 +1,5 @@
-data:extend({
 
+local technology =
 {
     type = "technology",
     name = "long-range-radar-tech",
@@ -11,7 +11,7 @@ data:extend({
         type = "unlock-recipe",
         recipe = "long-range-radar"
       }
-    },
+    }, 
 	prerequisites = {"military-2", "electronics","railway"},
     unit =
     {
@@ -25,5 +25,8 @@ data:extend({
     },
 	order = "e-a-a"
   }
-  
-  })
+  if mods.pycoalprocessing then
+    technology.prerequisites = {"electronics","railway"}
+    technology.unit.ingredients = {{"automation-science-pack", 1},{"logistic-science-pack", 1}}
+  end
+data:extend({technology})

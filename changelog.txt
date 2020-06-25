@@ -1,4 +1,16 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.18.1
+Date: 25.06.2020
+  Fixes:
+    - Adjustments to Technology Requirements when Pyanodon mods are present.
+  Features:
+    - Added German Locale (thank you Vort3x)
+---------------------------------------------------------------------------------------------------
+Version: 0.18.0
+Date: 27. 01. 2020
+  Major Features:
+    - Factorio 0.18.x release
+---------------------------------------------------------------------------------------------------
 Version: 0.17.7
 Date: 12. 03. 2019
   Fixes:
