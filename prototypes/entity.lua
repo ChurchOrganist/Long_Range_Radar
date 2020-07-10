@@ -2,8 +2,8 @@ data:extend({
    {
     type = "radar",
     name = "long-range-radar",
-    icon = "__base__/graphics/icons/radar.png",
-	icon_size = 32,
+    icon = "__Long_Range_Radar__/graphics/item_icon_advanced_radar.png",
+	icon_size = 64, icon_mipmaps = 4,
     flags = {"placeable-player", "player-creation"},
     minable = {hardness = 0.2, mining_time = 0.5, result = "long-range-radar"},
     max_health = 250,
@@ -19,7 +19,7 @@ data:extend({
         percent = 30
       }
     },
-    collision_box = {{-1.4, -1.4}, {1.4, 1.4}},
+    collision_box = {{-1.2, -1.2}, {1.2, 1.2}},
     selection_box = {{-1.5, -1.5}, {1.5, 1.5}},
     energy_per_sector = "10MJ",
     max_distance_of_sector_revealed = 28,
@@ -117,6 +117,7 @@ data:extend({
       apparent_volume = 2,
     },
     radius_minimap_visualisation_color = { r = 0.059, g = 0.092, b = 0.235, a = 0.275 },
+	fast_replaceable_group = "radar",
   }
   
   })

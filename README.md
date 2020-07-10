@@ -1,7 +1,8 @@
-Long Range Radar 0.18.1 by Michael Cowgill (ChurchOrganist)
+Long Range Radar 0.18.3 by Michael Cowgill (ChurchOrganist)
 
 This is simply a port of Malcolm Cooks' AdvancedRadar mod for Factorio 0.18.
-Malcolm's code is almost unchanged apart from some alterations to the sprite definitions, required for compatibility with Factorio's 0.16.x format, and a couple of alterations to the entity.lua file to enable the blue shading in the minimap. 
+Malcolm's code is almost unchanged apart from some alterations to the sprite definitions, required for compatibility with Factorio's 0.16.x format, and a couple of alterations to the entity.lua file to enable the blue shading in the minimap.
+Fast replace and upgrading with upgrade planner has also now been implemented
 This has been tested in Sandbox mode and appears to be working OK.
 If not please file a bug report at the Github repository.
 
