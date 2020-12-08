@@ -1,11 +1,11 @@
 {
   "name": "Long_Range_Radar",
-  "version": "0.18.3",
-  "title": "Long Range Radar for Factorio 0.18",
+  "version": "1.0.0",
+  "title": "Long Range Radar for Factorio 1.1.x",
   "author": "Michael Cowgill",
   "contact": "jmcowgill@gmail.com",
   "homepage": "",
-  "description": "Port to 0.18 of Malcolm Cooks' AdvancedRadar mod. Radar with greater range, speed, and power consumption.",
-  "dependencies": ["base >= 0.17", "?pycoalprocessing >= 1.6.2"],
+  "description": "Port to 1.1.x of Malcolm Cooks' AdvancedRadar mod. Radar with greater range, speed, and power consumption.",
+  "dependencies": ["base >= 1.1.0", "?pycoalprocessing >= 1.6.2"],
   "factorio_version": "0.18"
 }

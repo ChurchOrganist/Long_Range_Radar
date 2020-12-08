@@ -1,11 +1,11 @@
-Long Range Radar 0.18.3 is released under the MIT license.
+Long Range Radar 1.0.0 is released under the MIT license.
 
 Informally, this means you can 
 do basically whatever with it you like, as long as you leave this file intact.
 
 The full legalese is below.
 
-Long Range Radar 0.18.3 is Copyright © 2017-2020 Michael Cowgill (Church Organist), Malcolm Cooks and others.
+Long Range Radar 1.0.0 is Copyright ï¿½ 2017-2020 Michael Cowgill (Church Organist), Malcolm Cooks and others.
 
 Acknowledgements
 Thank you to Malcolm Cooks who programmed the original AdvancedRadar mod.
