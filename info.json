@@ -7,5 +7,5 @@
   "homepage": "",
   "description": "Port to 1.1.x of Malcolm Cooks' AdvancedRadar mod. Radar with greater range, speed, and power consumption.",
   "dependencies": ["base >= 1.1.0", "?pycoalprocessing >= 1.6.2"],
-  "factorio_version": "0.18"
+  "factorio_version": "1.0.0"
 }
